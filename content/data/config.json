@@ -70,7 +70,7 @@
             "phoneNumber": "",
             "phoneAltText": "My phone number",
             "email": "",
-            "emailAltText": "My email",
+            "emailAltText": "",
             "address": "Hyderabad",
             "addressAltText": "My address"
         },
