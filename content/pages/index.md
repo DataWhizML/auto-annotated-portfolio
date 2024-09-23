@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: 'Hi, i''m Sravani :)'
-    subtitle: 'I''m a 2023 grad,'
+    subtitle: 'I''m a 2023 grad,exploring data science.'
     styles:
       self:
         height: auto
