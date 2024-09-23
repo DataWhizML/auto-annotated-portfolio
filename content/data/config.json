@@ -71,7 +71,7 @@
             "phoneAltText": "My phone number",
             "email": "",
             "emailAltText": "",
-            "address": "Hyderabad",
+            "address": "",
             "addressAltText": "My address"
         },
         "copyrightText": "Powered by [Netlify](https://www.netlify.com/platform/)",
